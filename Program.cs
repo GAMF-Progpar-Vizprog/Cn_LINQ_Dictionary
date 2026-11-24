@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 
-namespace CnLINQDictionary
+namespace Cn_LINQ_Dictionary
 {
 	/// <summary>
 	/// A simple program implementing some dictionary functions, aimed at demonstrating
